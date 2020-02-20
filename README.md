@@ -1,2 +1,3 @@
 # Redacted-Public-Release-CCRA-CCRA-7.4.24.174.6-Build-7.4-Sprint-59-Jan-2020
 Repository containing the CIF submission for Community Care Program 2 - Referrals and Authorizations (CCRA) CCRA_7.4.24.174.6, Sprint 59, Build 7.4 received Jan 2020.
+Community Care (CC) staff members use the Community Care Referral & Authorization (CCRA) software as a service (SaaS) package to generate referrals and authorizations for episodes of care to community providers within the Community Care Network (CCN) through the Mission Act. The CCRA solution is an integral component of the VA Community Care Information Technology (IT) architecture which allows Veterans to receive care from non-VA Community Providers.
